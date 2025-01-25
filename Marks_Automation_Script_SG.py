@@ -1,7 +1,5 @@
 # Sergio Garcia
 # 12/11/2024
-# COMP 467
-# Project 3 
 
 import argparse
 import csv
